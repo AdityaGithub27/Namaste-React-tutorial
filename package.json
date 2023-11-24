@@ -1,0 +1,22 @@
+{
+  "name": "namaste-react-tutorial",
+  "version": "1.0.0",
+  "description": "this is namaste react tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Aditya Bijoy",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserList":[
+    "last 2 versions"
+  ]
+}
