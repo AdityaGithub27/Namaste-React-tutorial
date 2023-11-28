@@ -2,8 +2,10 @@
   "name": "namaste-react-tutorial",
   "version": "1.0.0",
   "description": "this is namaste react tutorial",
-  "main": "app.js",
+  "main": "App.js",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "author": "Aditya Bijoy",
