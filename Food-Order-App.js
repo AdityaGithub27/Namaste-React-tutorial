@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import Header from './food-delivery-app/header/header.js'
-import Body from './food-delivery-app/body/body.js'
+import HeaderDetails from './food-delivery-app/components/header.js'
+import Body from './food-delivery-app/components/body.js'
 
 
 /* intial food delivery design
@@ -24,7 +24,8 @@ import Body from './food-delivery-app/body/body.js'
 const FoodDeliveryApp = () =>{
    return (
       <div className="App">
-         <Header></Header>
+         {/* <Header></Header> */}
+         <HeaderDetails />
          <Body />
       </div>
    )
