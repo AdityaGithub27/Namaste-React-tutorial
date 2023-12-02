@@ -2,7 +2,7 @@
   "name": "namaste-react-tutorial",
   "version": "1.0.0",
   "description": "this is namaste react tutorial",
-  "main": "App.js",
+  "main": "Food-Order-App.js",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
